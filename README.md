@@ -18,9 +18,10 @@ The Dark Mode module for WHMCS Admin Area is a simple yet powerful tool that ena
 
 This module is designed to be compatible with any admin area theme, including the default Blend theme. The module is also extremely easy to install, requiring only a few simple steps:
 
-1.  Upload the `darkmode` folder to the `/modules/addons/` directory.
-2.  Log in to your WHMCS admin area and activate the module.
-3.  Configure your dark mode settings to your liking.
+1.  Download the module [here](https://github.com/blockshiftnetwork/whmcs-darkmode/releases/latest) and extract all files.
+2.  Upload the `darkmode` folder to the `/modules/addons/` directory.
+3.  Log in to your WHMCS admin area and activate the module.
+4.  Configure your dark mode settings to your liking.
 
 ## **Get Started Today**
 
