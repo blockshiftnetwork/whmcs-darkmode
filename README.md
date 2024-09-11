@@ -6,12 +6,6 @@
   <img alt="Downloads" src="https://img.shields.io/github/downloads/blockshiftnetwork/whmcs-darkmode/total?logo=github&style=for-the-badge" />
 </p>
 
-**Easily switch to a dark mode interface and customize to your liking**
-
-The Dark Mode module for WHMCS Admin Area allows you to transform your dashboard into a dark mode interface with just a few clicks. This free module is designed to be compatible with any admin area theme, including the default Blend theme.
-
-## **Description**
-
 The Dark Mode module for WHMCS Admin Area is a simple yet powerful tool that enables you to switch between light and dark modes with ease. With this module, you can:
 
 - **Enable/Disable Dark Mode**: Easily toggle dark mode on or off with a button located at the top right of your admin area.
